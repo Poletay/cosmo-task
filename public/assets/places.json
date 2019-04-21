@@ -1,0 +1,46 @@
+{
+  "places": [
+    {
+      "id": 0,
+      "title": "First place",
+      "img": "assets/FirstPicture.jpg",
+      "description": "Sparking beach.",
+      "url": "http://licalhost:3000"
+    },
+    {
+      "id": 1,
+      "title": "Second place",
+      "img": "assets/SecondPicture.jpg",
+      "description": "Sunny forest.",
+      "url": "http://licalhost:3000"
+    },
+    {
+      "id": 2,
+      "title": "Third place",
+      "img": "assets/ThirdPicture.jpg",
+      "description": "Lake in the mountains",
+      "url": "http://licalhost:3000"
+    },
+    {
+      "id": 3,
+      "title": "Fourth place",
+      "img": "assets/FourthPicture.jpg",
+      "description": "Moonlight under water.",
+      "url": "http://licalhost:3000"
+    },
+    {
+      "id": 4,
+      "title": "Fifth place",
+      "img": "assets/FifthPicture.jpg",
+      "description": "River in a forest.",
+      "url": "http://licalhost:3000"
+    },
+    {
+      "id": 5,
+      "title": "Sixth place",
+      "img": "assets/SixthPicture.jpg",
+      "description": "The perfect place for relax.",
+      "url": "http://licalhost:3000"
+    }
+  ]
+}
