@@ -18,7 +18,7 @@ const PlaceCard = ({ place: { img, title, description }, rotatePlaces }) => {
       </div>
     </div>
   );
-}
+};
 
 PlaceCard.propTypes = {
   place: PropTypes.shape({

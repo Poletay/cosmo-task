@@ -2,7 +2,7 @@
 start:
 	npm run start
 lint:
-	npm run eslint
+	npm run eslint -- --ext js --ext jsx ./src
 build:
 	npm run build
 test:
