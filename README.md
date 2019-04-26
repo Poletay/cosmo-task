@@ -7,6 +7,7 @@ git clone https://github.com/Poletay/cosmo-task.git ./
 
 # Usage:
 ```
+npm install // for install dependences
 npm start // for start web-server and application
 ```
 
